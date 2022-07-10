@@ -38,14 +38,14 @@ The local election council has approached our team with the request of creating 
 
 Our solution code for this task was able to process the data within seconds and print the outputs in less than a second.
 One of the major advantages of this code is that it’s scope can be easily expanded or retracted or restructured for different types of elections
-	1) Change the codes scope: As an example, we can easily update the codes to output state-level breakdowns instead of county level.
-		○ Replace "county" variables to "state"
-			§ largest_county to largest_state
-			§ largest_county_summary to largest_state_summary
-			§ county_count to state_count
-			§ County_name to state_name
-	2) Utilize code for legislation votes: This code can also be modified to process yes/no/abstain votes with minimal tweaking. The change in code required to make this possible would be;
-		○ Update "candidate" variables to "options"
-			§ candidate_name to option_name
-			§ candidate_options to options_list
-			§ candidate_votes to option_votes
+1) Change the codes scope: As an example, we can easily update the codes to output state-level breakdowns instead of county level.
+   - Replace "county" variables to "state"
+   - largest_county to largest_state
+   - largest_county_summary to largest_state_summary
+   - county_count to state_count
+   - County_name to state_name
+2) Utilize code for legislation votes: This code can also be modified to process yes/no/abstain votes with minimal tweaking. The change in code required to make this possible would be;
+   - Update "candidate" variables to "options"
+   - candidate_name to option_name
+   - candidate_options to options_list
+   - candidate_votes to option_votes
