@@ -13,7 +13,7 @@ The local election council has approached our team with the request of creating 
 	
 ## **Election-Audit Results**
 - How many votes were cast in this congressional election?
-  /n- 369,711	
+  \n- 369,711	
 - Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
   -County Votes:
   -Jefferson: 10.5% (38,855)
