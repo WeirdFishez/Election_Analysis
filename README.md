@@ -3,12 +3,12 @@
 ## **Overview of Election Audit**
 
 The local election council has approached our team with the request of creating automated code that can process election data in CSV format and output the following:
-# Total Votes
-# Breakdown of votes per county
-# County with the largest number of votes
-# Breakdown each candidate by;
+* Total Votes
+* Breakdown of votes per county
+* County with the largest number of votes
+* Breakdown each candidate by;
   A) Name B) Number of votes received C) Percentage of overall votes
-# Breakdown winning candidate results by;
+* Breakdown winning candidate results by;
   A) Name B) Number of votes received C) Percentage of overall votes
 	
 ## **Election-Audit Results**
