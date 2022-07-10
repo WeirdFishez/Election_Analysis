@@ -1,6 +1,6 @@
-###**Written Analysis of the Election Audit**
+### **Written Analysis of the Election Audit**
 
-##**Overview of Election Audit**
+## **Overview of Election Audit**
 
 The local election council has approached our team with the request of creating automated code that can process election data in CSV format and output the following:
 		1) Total Votes
@@ -11,7 +11,7 @@ The local election council has approached our team with the request of creating 
 		5) Breakdown winning candidate results by;
 			A) Name B) Number of votes received C) Percentage of overall votes
 	
-##**Election-Audit Results**
+## **Election-Audit Results**
 		○ How many votes were cast in this congressional election?
 			369,711
 			
@@ -35,7 +35,7 @@ The local election council has approached our team with the request of creating 
 			Winning Percentage: 73.8%
 			
 		
-##**Election-Audit Summary**
+## **Election-Audit Summary**
 
 Our solution code for this task was able to process the data within seconds and print the outputs in less than a second.
 One of the major advantages of this code is that it’s scope can be easily expanded or retracted or restructured for different types of elections
